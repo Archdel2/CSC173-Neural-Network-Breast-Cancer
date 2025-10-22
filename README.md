@@ -32,6 +32,14 @@ We selected two features from the dataset for the input layer of the network.
 
 ## Results & Visualization
 
+Training Loss Comparison
+![alt text](image.png)
+
+Sigmoid, Relu, and Tanh Boundary
+![alt text](image-1.png)
+
+Comprehensive Model Comparison
+![alt text](image-2.png)
 
 ## Team Collaboration
 
@@ -46,7 +54,7 @@ Each member contributed to different components of the network:
 
 1. Clone the GitHub repository:
    ```
-   git clone [https://github.com/Archdel2/CSC173-Neural-Network-Breast-Cancer]
+   git clone https://github.com/Archdel2/CSC173-Neural-Network-Breast-Cancer
    ```
 2. Open the Jupyter notebook or Colab file.
 3. Run all cells sequentially.
@@ -56,4 +64,4 @@ Each member contributed to different components of the network:
 
 This activity provided hands-on experience in building a neural network without relying on high-level ML frameworks. The group collaboratively developed the model, analyzed its training behavior visually, and demonstrated understanding of fundamental AI concepts through both code and documentation.
 
-Video: link
+Video: [link]
