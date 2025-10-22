@@ -33,13 +33,13 @@ We selected two features from the dataset for the input layer of the network.
 ## Results & Visualization
 
 Training Loss Comparison
-![alt text](image.png)
+![alt text](images/image.png)
 
 Sigmoid, Relu, and Tanh Boundary
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 Comprehensive Model Comparison
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 ## Team Collaboration
 
